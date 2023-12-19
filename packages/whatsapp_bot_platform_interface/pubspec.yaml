@@ -9,7 +9,7 @@ environment:
   sdk: '>=2.19.0 <3.0.0'
 
 dependencies:
-  http: ^0.13.5
+  http: 
   zxing2: ^0.2.0
   mime: ^1.0.4
 
